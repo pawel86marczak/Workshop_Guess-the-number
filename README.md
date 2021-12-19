@@ -1,7 +1,7 @@
 # Workshop_Guess-the-number
 simple number guessing game
 
-This game will:
+This game will :
 
 1. Ask the question "Guess the number:" and retrieve the number from the keyboard.
 2. Check if the entered text is really a number and in the event of an error display the message "It's not a number!", 
