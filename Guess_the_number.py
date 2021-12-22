@@ -12,7 +12,7 @@ Then go back to pt. 1.
 display the message "You win!" And exit the program. 
 '''
 
-number = random.randrange(1, 2)
+number = random.randrange(1, 100)
 try:
     guess = int(input("Guess the number :"))
 
@@ -28,4 +28,4 @@ except ValueError:
     guess = int(input("Guess the number :"))
 
 if guess == number:
-    print("You win")
+    print("You win!")
