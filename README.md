@@ -1,7 +1,11 @@
 # Workshop_Guess-the-number
 simple number guessing game
 
+<<<<<<< HEAD
 This game will :
+=======
+This game will:
+>>>>>>> 8a33630b540a4a6d93bdfd49f4db50639500d826
 
 1. Ask the question "Guess the number:" and retrieve the number from the keyboard.
 2. Check if the entered text is really a number and in the event of an error display the message "It's not a number!", 
