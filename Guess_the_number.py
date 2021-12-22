@@ -12,11 +12,9 @@ Then go back to pt. 1.
 display the message "You win!" And exit the program. 
 '''
 
-<<<<<<< HEAD
+
 number = random.randrange(1, 100)
-=======
-number = random.randrange(1, 2)
->>>>>>> 8a33630b540a4a6d93bdfd49f4db50639500d826
+
 try:
     guess = int(input("Guess the number :"))
 
